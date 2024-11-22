@@ -1,0 +1,14 @@
+C:/C++/3DGameEngine/build/CMakeFiles/INSTALL.dir
+C:/C++/3DGameEngine/build/CMakeFiles/ALL_BUILD.dir
+C:/C++/3DGameEngine/build/CMakeFiles/ZERO_CHECK.dir
+C:/C++/3DGameEngine/build/GameEngineEditor/CMakeFiles/GameEngineEditor.dir
+C:/C++/3DGameEngine/build/GameEngineEditor/CMakeFiles/INSTALL.dir
+C:/C++/3DGameEngine/build/GameEngineCore/CMakeFiles/GameEngineCore.dir
+C:/C++/3DGameEngine/build/GameEngineCore/CMakeFiles/INSTALL.dir
+C:/C++/3DGameEngine/build/GameEngineCore/glfw/CMakeFiles/uninstall.dir
+C:/C++/3DGameEngine/build/GameEngineCore/glfw/CMakeFiles/INSTALL.dir
+C:/C++/3DGameEngine/build/GameEngineCore/glfw/CMakeFiles/ALL_BUILD.dir
+C:/C++/3DGameEngine/build/GameEngineCore/glfw/src/CMakeFiles/glfw.dir
+C:/C++/3DGameEngine/build/GameEngineCore/glfw/src/CMakeFiles/update_mappings.dir
+C:/C++/3DGameEngine/build/GameEngineCore/glfw/src/CMakeFiles/INSTALL.dir
+C:/C++/3DGameEngine/build/GameEngineCore/glfw/docs/CMakeFiles/INSTALL.dir

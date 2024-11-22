@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C\u002B\u002B\\3DGameEngine\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32437748-205C-3792-BD59-52DC81796206}|GameEngineEditor\\GameEngineEditor.vcxproj|C:\\C\u002B\u002B\\3DGameEngine\\GameEngineEditor\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F831BAA-BA86-373E-AF1D-27AC37C684CB}|GameEngineCore\\GameEngineCore.vcxproj|C:\\C\u002B\u002B\\3DGameEngine\\GameEngineCore\\includes\\GameEngineCore\\Utils\\test.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F831BAA-BA86-373E-AF1D-27AC37C684CB}|GameEngineCore\\GameEngineCore.vcxproj|C:\\C\u002B\u002B\\3DGameEngine\\GameEngineCore\\src\\GameEngineCore\\Utils\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\3DGameEngine\\GameEngineEditor\\src\\main.cpp",
+              "RelativeDocumentMoniker": "..\\GameEngineEditor\\src\\main.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\3DGameEngine\\GameEngineEditor\\src\\main.cpp",
+              "RelativeToolTip": "..\\GameEngineEditor\\src\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-22T16:56:52.797Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\3DGameEngine\\GameEngineCore\\src\\GameEngineCore\\Utils\\test.cpp",
+              "RelativeDocumentMoniker": "..\\GameEngineCore\\src\\GameEngineCore\\Utils\\test.cpp",
+              "ToolTip": "C:\\C\u002B\u002B\\3DGameEngine\\GameEngineCore\\src\\GameEngineCore\\Utils\\test.cpp",
+              "RelativeToolTip": "..\\GameEngineCore\\src\\GameEngineCore\\Utils\\test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-22T17:00:11.654Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.hpp",
+              "DocumentMoniker": "C:\\C\u002B\u002B\\3DGameEngine\\GameEngineCore\\includes\\GameEngineCore\\Utils\\test.hpp",
+              "RelativeDocumentMoniker": "..\\GameEngineCore\\includes\\GameEngineCore\\Utils\\test.hpp",
+              "ToolTip": "C:\\C\u002B\u002B\\3DGameEngine\\GameEngineCore\\includes\\GameEngineCore\\Utils\\test.hpp",
+              "RelativeToolTip": "..\\GameEngineCore\\includes\\GameEngineCore\\Utils\\test.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-22T16:59:44.055Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
